@@ -1,0 +1,9 @@
+ Wed, 26 Aug 2020 21:51:51  INFO basePage.py wait_ele_visible [ line:38 ] 等待 登陆页面_输入用户名  元素  ('xpath', "//input[@placeholder='请输入邮箱/手机号']") 可见成功。耗时：0:00:00.036343
+ Wed, 26 Aug 2020 21:51:51  INFO basePage.py get_element [ line:66 ] 查找  登陆页面_输入用户名 元素 ('xpath', "//input[@placeholder='请输入邮箱/手机号']") 成功！
+ Wed, 26 Aug 2020 21:51:51  INFO basePage.py input_text [ line:95 ] 在 登陆页面_输入用户名 元素 ('xpath', "//input[@placeholder='请输入邮箱/手机号']") 上输入文本值：444@tontisa.com 成功！
+ Wed, 26 Aug 2020 21:51:51  INFO basePage.py wait_ele_visible [ line:38 ] 等待 登陆页面_输入密码  元素  ('xpath', "//input[@placeholder='请输入密码']") 可见成功。耗时：0:00:00.047989
+ Wed, 26 Aug 2020 21:51:51  INFO basePage.py get_element [ line:66 ] 查找  登陆页面_输入密码 元素 ('xpath', "//input[@placeholder='请输入密码']") 成功！
+ Wed, 26 Aug 2020 21:51:51  INFO basePage.py input_text [ line:95 ] 在 登陆页面_输入密码 元素 ('xpath', "//input[@placeholder='请输入密码']") 上输入文本值：12345678 成功！
+ Wed, 26 Aug 2020 21:51:51  INFO basePage.py wait_ele_visible [ line:38 ] 等待 登陆页面_点击登陆按钮  元素  ('xpath', "//button[@class='ivu-btn ivu-btn-primary ivu-btn-long']") 可见成功。耗时：0:00:00.029961
+ Wed, 26 Aug 2020 21:51:51  INFO basePage.py get_element [ line:66 ] 查找  登陆页面_点击登陆按钮 元素 ('xpath', "//button[@class='ivu-btn ivu-btn-primary ivu-btn-long']") 成功！
+ Wed, 26 Aug 2020 21:51:51  INFO basePage.py click_element [ line:78 ] 点击  登陆页面_点击登陆按钮 元素 ('xpath', "//button[@class='ivu-btn ivu-btn-primary ivu-btn-long']") 成功！
